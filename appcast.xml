@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Perla</title>
-    <link>https://inawafalm.github.io/perla-releases/appcast.xml</link>
-    <description>Perla updates</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Perla</title>
+        <link>https://inawafalm.github.io/perla-releases/appcast.xml</link>
+        <description>Perla updates</description>
+        <language>en</language>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 23 Jun 2026 20:20:01 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/inawafalm/perla-releases/releases/download/v1.0/Perla-1.0.zip" length="24067536" type="application/octet-stream" sparkle:edSignature="vbns1L5UTwoZ57WehCZQakrGmGG/gzKTHY20V4Wg2vhhpCCrt0VCFZvXVuzOrBW0w9rOXLsdHdSfJOP47lFTBA=="/>
+        </item>
+    </channel>
 </rss>
