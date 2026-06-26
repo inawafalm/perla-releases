@@ -6,6 +6,14 @@
         <description>Perla updates</description>
         <language>en</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 26 Jun 2026 18:48:04 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/inawafalm/perla-releases/releases/download/v1.0.1/Perla-1.0.1.zip" length="42697214" type="application/octet-stream" sparkle:edSignature="9qOoVytkgIvy3Pf7pAIRlF2iN7aX2uf86bt/TsgVndG1mCJor+88cUWNFDFQDM7XQBAkVo71wFz5gBQjW0cvBw=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Tue, 23 Jun 2026 20:20:01 +0300</pubDate>
             <sparkle:version>1</sparkle:version>
